@@ -6,7 +6,8 @@ class Car:
   def run(self):
     print("car is running")
 
-
+ford = Car("Honda",2005)
+ford.run()
 
 
 
